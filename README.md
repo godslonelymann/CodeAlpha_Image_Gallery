@@ -6,5 +6,7 @@ Create an image gallery where users can view a collection of images. Use HTML/CS
 
 ![ss-2](https://github.com/user-attachments/assets/21437f98-ec5b-4a78-b78e-b5286b29cfd9)
 
+https://github.com/user-attachments/assets/a1d4c43c-b8c2-42f9-8ab9-e11bc1515695
+
 
 
